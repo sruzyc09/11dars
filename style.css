@@ -1,0 +1,42 @@
+body {
+    background-color: #2A5D5A;
+}
+
+.box1 {
+    width: 636px;
+    height: 116px;
+    margin-top: 22px;
+    margin-left: 650px;
+    background-color: #311313;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+
+.box {
+    height: 638px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 61px;
+    background-color: black;
+    border: 10px solid red;
+}
+
+.box2 {
+    width: 896px;
+    height: 259px;
+    background-color: aqua;
+    margin-left: 52px;
+    margin-top: 35px;
+}
+
+.text1 {
+    font-size: 30px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
